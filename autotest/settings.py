@@ -91,7 +91,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',  
         'NAME': 'autotest',  
         'USER': 'root',  
-        'PASSWORD': 'test123456',  
+        'PASSWORD': 'mysql',
         'HOST': '127.0.0.1',  
         'PORT': '3306',  
     }

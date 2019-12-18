@@ -1,0 +1,8 @@
+appium-python-client==0.26
+celery-with-redis==3.0
+django==2.0.1
+django-bootstrap4
+locust
+pymysql==0.8.0
+requests
+selenium==3.8.1
